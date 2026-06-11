@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="https://merakday.dev/logo.png" alt="KOPI MERAK" width="150">
 
   # MERAK&#8203;-ID
@@ -10,6 +11,7 @@
   [![merakday.dev](https://img.shields.io/badge/event-merakday.dev-be2a2a?style=flat-square)](https://merakday.dev)
   [![merak.foundation](https://img.shields.io/badge/merak.foundation-111?style=flat-square)](https://merak.foundation)
   [![Instagram](https://img.shields.io/badge/instagram-@kopimerakid-ff4339?style=flat-square)](https://www.instagram.com/kopimerakid/)
+
 </div>
 
 ---
@@ -34,6 +36,7 @@ Acara utama kami: konferensi developer satu hari yang community-driven. Bukan se
 `Web & Frontend` · `AI / ML & GenAI` · `Mobile` · `Cloud / DevOps` · `Open Source` · `Karier & Komunitas`
 
 ### 📂 Repositori
+
 | Repo | Deskripsi |
 | --- | --- |
 | [`merakday.dev`](https://github.com/MERAK-ID) | Situs resmi & landing page acara |
@@ -41,9 +44,13 @@ Acara utama kami: konferensi developer satu hari yang community-driven. Bukan se
 ### 🤝 Terlibat
 
 Mau jadi **pembicara**, **volunteer**, atau **sponsor**? Atau cuma mau ngobrol?
+
 <div align="center">
-  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
+
+  <img src="https://merakday.dev/og.png" alt="MerakDay" width="520">
+
 </div>
+
 - 🌐 Web — [merakday.dev](https://merakday.dev)
 - 📸 Instagram — [@kopimerakid](https://www.instagram.com/kopimerakid/)
 - 🏛️ Foundation — [merak.foundation](https://merak.foundation)
