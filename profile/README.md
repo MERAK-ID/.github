@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://merakday.dev/logo.png" alt="KOPI MERAK" width="150">
+  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
 
   # MERAK&#8203;-ID
 
