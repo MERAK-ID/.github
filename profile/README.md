@@ -34,10 +34,6 @@ Acara utama kami: konferensi developer satu hari yang community-driven. Bukan se
 `Web & Frontend` · `AI / ML & GenAI` · `Mobile` · `Cloud / DevOps` · `Open Source` · `Karier & Komunitas`
 
 ### 📂 Repositori
-<div align="center">
-  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
-</div>
-
 | Repo | Deskripsi |
 | --- | --- |
 | [`merakday.dev`](https://github.com/MERAK-ID) | Situs resmi & landing page acara |
@@ -45,7 +41,9 @@ Acara utama kami: konferensi developer satu hari yang community-driven. Bukan se
 ### 🤝 Terlibat
 
 Mau jadi **pembicara**, **volunteer**, atau **sponsor**? Atau cuma mau ngobrol?
-
+<div align="center">
+  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
+</div>
 - 🌐 Web — [merakday.dev](https://merakday.dev)
 - 📸 Instagram — [@kopimerakid](https://www.instagram.com/kopimerakid/)
 - 🏛️ Foundation — [merak.foundation](https://merak.foundation)
