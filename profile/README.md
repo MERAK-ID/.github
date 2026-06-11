@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
+  <img src="https://merakday.dev/logo.png" alt="KOPI MERAK" width="150">
 
   # MERAK&#8203;-ID
 
@@ -34,6 +34,9 @@ Acara utama kami: konferensi developer satu hari yang community-driven. Bukan se
 `Web & Frontend` · `AI / ML & GenAI` · `Mobile` · `Cloud / DevOps` · `Open Source` · `Karier & Komunitas`
 
 ### 📂 Repositori
+<div align="center">
+  <img src="https://merakday.dev/og.png" alt="KOPI MERAK" width="150">
+</div>
 
 | Repo | Deskripsi |
 | --- | --- |
